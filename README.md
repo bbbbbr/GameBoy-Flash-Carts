@@ -1,7 +1,7 @@
 # GameBoy-Flash-Carts
 A List of Game Boy Flash Cart Vendors and Options
 
-Web version: https://bbbbbr.github.io/GameBoy-Flash-Carts/
+[Web version](https://bbbbbr.github.io/GameBoy-Flash-Carts/)
 
 ## Notes
 This may get outdated. It's fairly accurate as of: 2022-08-02
@@ -13,9 +13,9 @@ Feel free to open a PR or Issue with correction, updates or additions. Please tr
 
 
 ## Also See
-* https://gameboy.github.io/wiki/flashcarts
-* https://gbdev.io/pandocs/MBCs.html
-* https://flashcartdb.com/index.php/Main_Page
+* [Game Boy Flash Carts](https://gameboy.github.io/wiki/flashcarts)
+* [Pandocs MBC info](https://gbdev.io/pandocs/MBCs.html)
+* [Flash Cart DB](https://flashcartdb.com/index.php/Main_Page)
 
 
 ## Flash Carts
@@ -69,6 +69,6 @@ Feel free to open a PR or Issue with correction, updates or additions. Please tr
 * Bulk Pricing / Custom builds w/w-out RAM / Custom PCB artwork for small runs (100 carts minimum). [store link](https://retrostage.net/?product=gb-blaster)
 
 ## Inside Gadgets
-* Gameboy 32KB to 4MB Custom Flash Cart (25+pcs): https://shop.insidegadgets.com/product/custom-gameboy-flash-cart/)
+* Gameboy 32KB to 4MB Custom Flash Cart (25+pcs): [store link](https://shop.insidegadgets.com/product/custom-gameboy-flash-cart/)
 
 
