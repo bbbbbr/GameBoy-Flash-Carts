@@ -16,6 +16,7 @@ Feel free to open a PR or Issue with correction, updates or additions. Please tr
 * [Game Boy Flash Carts](https://gameboy.github.io/wiki/flashcarts)
 * [Pandocs MBC info](https://gbdev.io/pandocs/MBCs.html)
 * [Flash Cart DB](https://flashcartdb.com/index.php/Main_Page)
+* [Inside Gadgets: Choosing a Flash Cart](https://shop.insidegadgets.com/choosing-a-flash-cart/)
 
 
 ## Flash Carts
