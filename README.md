@@ -44,9 +44,9 @@ Feel free to open a PR or Issue with correction, updates or additions. Please tr
 | Inside Gadgets | 2MB WT Mapper        | Wisdom Tree | 2MB       | no        |                   | $15    | AUS | [store link](https://shop.insidegadgets.com/product/gameboy-2mb-wt-mapper-flash-cart/)
 | Inside Gadgets | GBA Size 1MB 32K FRAM | MBC 5/~3/~1  | 1MB     | 32K FRAM   | GBA Cart Sized    | $27    | AUS | [store link](https://shop.insidegadgets.com/product/gameboy-1mb-32kb-fram-mini-flash-cart-fits-in-a-gba-cartridge/)
 | Inside Gadgets | GBA Size 1MB 128K FRAM | MBC 5/~3/~1 | 1MB     | 128K SRAM  | GBA Cart Sized    | $31    | AUS | [store link](https://shop.insidegadgets.com/product/gameboy-1mb-128kb-sram-mini-flash-cart-fits-in-a-gba-cartridge-for-gba-gba-sp/)
-| J.Rodrigo i     | 2MB FRAM 32K       | MBC 5 | 2MB       | 32K FRAM   |        | $29.95   | ESP | [store link](https://www.tindie.com/products/jrodrigo/flash-cartridge-rom-2mb-fram-32kb-for-gameboy/)
-| J.Rodrigo i     | 4MB FRAM 32K       | MBC 5 | 4MB       | 32K FRAM   |        | $39.95   | ESP | [store link](https://www.tindie.com/products/jrodrigo/flash-cartridge-rom-4mb-fram-32kb-for-gameboy/)
-| Kitsch-Bent     | kk_gb_256x16_plcc_ | no-MBC | 8 x 32K   | no        | Selectable ROM | $30 | USA | [store link](https://store.kitsch-bent.com/products/kk_gb_256x16_plcc-cartridge)
+| J.Rodrigo      | 2MB FRAM 32K       | MBC 5 | 2MB       | 32K FRAM   |        | $29.95   | ESP | [store link](https://www.tindie.com/products/jrodrigo/flash-cartridge-rom-2mb-fram-32kb-for-gameboy/)
+| J.Rodrigo      | 4MB FRAM 32K       | MBC 5 | 4MB       | 32K FRAM   |        | $39.95   | ESP | [store link](https://www.tindie.com/products/jrodrigo/flash-cartridge-rom-4mb-fram-32kb-for-gameboy/)
+| Kitsch-Bent    | kk_gb_256x16_plcc_ | no-MBC | 8 x 32K   | no        | Selectable ROM | $30 | USA | [store link](https://store.kitsch-bent.com/products/kk_gb_256x16_plcc-cartridge)
 
 
 
