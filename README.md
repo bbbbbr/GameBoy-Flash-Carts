@@ -1,9 +1,12 @@
 # GameBoy-Flash-Carts
 A List of Game Boy Flash Cart Vendors and Options
 
+Web version: https://bbbbbr.github.io/GameBoy-Flash-Carts/
+
+## Notes
 This may get outdated. It's fairly accurate as of: 2022-08-02
 
-These are primarily SINGLE-ROM carts intended for game testing / distribution. Multi-ROM carts such as the EverDrive GB series are not included.
+These are primarily SINGLE-ROM carts intended for game testing / distribution. Multi-ROM loader carts such as the EverDrive GB series are not included.
 
 ## Corrections / Updates / Additions
 Feel free to open a PR or Issue with correction, updates or additions. Please try to roughly follow the markdown table formatting.
