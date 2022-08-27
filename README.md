@@ -3,20 +3,22 @@ A List of Game Boy Flash Cart Vendors and Options
 
 [Web version](https://bbbbbr.github.io/GameBoy-Flash-Carts/)
 
-## Notes
+## Notes / Criteria
 This may get outdated. It's fairly accurate as of: 2022-08-02
 
-These are primarily SINGLE-ROM carts intended for game testing / distribution. Multi-ROM loader carts such as the EverDrive GB series are not included.
+* These are primarily SINGLE-ROM carts intended for game testing / distribution. Multi-ROM loader carts such as the EverDrive GB series are not included.
+* This only lists what is available for direct purchase by consumers from established, reputable vendors and does not include carts of uncertain quality (such as re-flashable bootlegs from ali-express)
 
 ## Corrections / Updates / Additions
 Feel free to open a PR or Issue with correction, updates or additions. Please try to roughly follow the markdown table formatting.
-
 
 ## Also See
 * [Game Boy Flash Carts](https://gameboy.github.io/wiki/flashcarts)
 * [Pandocs MBC info](https://gbdev.io/pandocs/MBCs.html)
 * [Flash Cart DB](https://flashcartdb.com/index.php/Main_Page)
 * [Inside Gadgets: Choosing a Flash Cart](https://shop.insidegadgets.com/choosing-a-flash-cart/)
+* [Getting your GB Studio Games on Real Hardware ](https://gbstudiocentral.com/tips/getting-your-gb-studio-games-on-real-hardware/)
+* [Distinguishing Reflashable Bootlegs](https://gbstudiocentral.com/tips/distinguishing-reflashable-bootlegs/)
 
 
 ## Flash Carts
