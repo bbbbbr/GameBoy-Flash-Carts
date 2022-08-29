@@ -17,8 +17,8 @@ Feel free to open a PR or Issue with correction, updates or additions. Please tr
 * [Pandocs MBC info](https://gbdev.io/pandocs/MBCs.html)
 * [Flash Cart DB](https://flashcartdb.com/index.php/Main_Page)
 * [Inside Gadgets: Choosing a Flash Cart](https://shop.insidegadgets.com/choosing-a-flash-cart/)
-* [Getting your GB Studio Games on Real Hardware ](https://gbstudiocentral.com/tips/getting-your-gb-studio-games-on-real-hardware/)
-* [Distinguishing Reflashable Bootlegs](https://gbstudiocentral.com/tips/distinguishing-reflashable-bootlegs/)
+* [Getting your GB Studio Games on Real Hardware ](https://gbstudiocentral.com/tips/getting-your-gb-studio-games-on-real-hardware/) and [Distinguishing Reflashable Bootlegs](https://gbstudiocentral.com/tips/distinguishing-reflashable-bootlegs/)
+* [Discussion about Carts with 3.3V components](https://web.archive.org/web/20180817042212/https://db-electronics.ca/2017/07/05/the-dangers-of-3-3v-flash-in-retro-consoles/)
 
 
 ## Flash Carts
