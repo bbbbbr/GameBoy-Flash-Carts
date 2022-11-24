@@ -4,7 +4,7 @@ A List of Game Boy Flash Cart Vendors and Options
 [Web version](https://bbbbbr.github.io/GameBoy-Flash-Carts/)
 
 ## Notes / Criteria
-This may get outdated. It's fairly accurate as of: 2022-08-02
+This may get outdated. It's fairly accurate as of: 2022-11
 
 * These are primarily SINGLE-ROM carts intended for game testing / distribution. Multi-ROM loader carts such as the EverDrive GB series are not included.
 * This only lists what is available for direct purchase by consumers from established, reputable vendors and does not include carts of uncertain quality (such as re-flashable bootlegs from ali-express)
@@ -25,6 +25,7 @@ Feel free to open a PR or Issue with correction, updates or additions. Please tr
 
 | Vendor          | Item               | MBC    | ROM       | RAM       | Features | Price USD | Country | URL  |
 |-----------------|--------------------|--------|-----------|-----------|----------|-----------|---------|------|
+| BennVenn | MBC3000 RTC GBC cart      | MBC 5/3 | 8MB      | 128K FRAM | RTC      | ~$29      | AUS     | [store link](https://bennvenn.myshopify.com/products/mbc3000-rtc-gbc-cart)
 | Catskull        | 32k Flash Cart     | no-MBC | 32K       | no        |         | $10 | USA | [store link](https://catskullelectronics.com/collections/game-boy/products/32k-gameboy-flash-cart)
 | Cubic Style     | GB 32K             | no-MBC | 32K       | no        |         | ~$10 | JPN | [store link](https://cubic-style.booth.pm/items/1511849)
 | Cubic Style     | GB 2MB             | MBC 5  | 2MB       | no        |         | ~$20 | JPN | [store link](https://cubic-style.booth.pm/items/2384914)
