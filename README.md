@@ -25,7 +25,6 @@ Feel free to open a PR or Issue with correction, updates or additions. Please tr
 
 | Vendor          | Item               | MBC    | ROM       | RAM       | Features | Price USD | Country | URL  |
 |-----------------|--------------------|--------|-----------|-----------|----------|-----------|---------|------|
-| BennVenn | MBC3000 RTC GBC cart v3     | MBC 5/3 | 8MB      | 128K FRAM | RTC      | ~$30      | AUS     | [store link](https://bennvenn.myshopify.com/products/mbc3000-rtc-gbc-cart)
 | BennVenn | MBC3000 RTC GBC cart v4     | MBC 5/3 | 8MB      | 128K FRAM | Dual RTC, 2xROMs | ~$33.50      | AUS     | [store link](https://bennvenn.myshopify.com/products/mbc3000-rtc-gbc-cart-v4)
 | Catskull        | 32k Flash Cart     | no-MBC | 32K       | no        |         | $15 | USA | [store link](https://catskullelectronics.com/collections/game-boy/products/32k-gameboy-flash-cart)
 | Cubic Style     | GB 32K             | no-MBC | 32K       | no        |         | ~$9 | JPN | [store link](https://cubic-style.booth.pm/items/1511849)
@@ -59,6 +58,7 @@ Feel free to open a PR or Issue with correction, updates or additions. Please tr
 
 | Vendor          | Item               | MBC    | ROM       | RAM       | Feature | Price USD | Country | URL |
 |-----------------|--------------------|--------|-----------|-----------|----------|-----------|---------|------|
+| BennVenn | MBC3000 RTC GBC cart v3     | MBC 5/3 | 8MB      | 128K FRAM | RTC      | ~$30      | AUS     | [store link](https://bennvenn.myshopify.com/products/mbc3000-rtc-gbc-cart)
 | Cubic Style     | GB 2MB             | MBC 5  | 2MB       | no        |         | ~$18 | JPN | [store link](https://cubic-style.booth.pm/items/2384914)
 | Cubic Style     | GB 2MB 32K         | MBC 5  | 2MB       | 32K FRAM  |         | ~$24 | JPN | [store link](https://cubic-style.booth.pm/items/2384780)
 | Inside Gadgets | 512KBx4 Button      | MBC ?   | 4 x 512KB | no        | Selectable ROM | $17 | AUS | [store link](https://shop.insidegadgets.com/product/gameboy-512kbx4-button-flash-cart/)
