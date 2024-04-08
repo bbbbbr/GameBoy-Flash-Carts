@@ -4,7 +4,7 @@ A List of Game Boy Flash Cart Vendors and Options
 [Web version](https://bbbbbr.github.io/GameBoy-Flash-Carts/)
 
 ## Notes / Criteria
-This may get outdated. It's fairly accurate as of: 2023-07
+This may get outdated. It's fairly accurate as of: 2024-04
 
 * These are primarily SINGLE-ROM carts intended for game testing / distribution. Multi-ROM loader carts such as the EverDrive GB series are not included.
 * This only lists what is available for direct purchase by consumers from established, reputable vendors and does not include carts of uncertain quality (such as re-flashable bootlegs from ali-express)
@@ -25,13 +25,11 @@ Feel free to open a PR or Issue with correction, updates or additions. Please tr
 
 | Vendor          | Item               | MBC    | ROM       | RAM       | Features | Price USD | Country | URL  |
 |-----------------|--------------------|--------|-----------|-----------|----------|-----------|---------|------|
-| BennVenn | MBC3000 RTC GBC cart v4     | MBC 5/3 | 8MB      | 128K FRAM | Dual RTC, 2xROMs | ~$33.50      | AUS     | [store link](https://bennvenn.myshopify.com/products/mbc3000-rtc-gbc-cart-v4)
-| Cubic Style     | GB 32K             | no-MBC | 32K       | no        |         | ~$9 | JPN | [store link](https://cubic-style.booth.pm/items/1511849)
-| Ferrante Crafts | Flash Cart 32KB    | no-MBC  | 32K       | no        |         | ~$15 ($11) | NLD | [store link](https://www.ferrantecrafts.com/listing/1051728136/flash-cartridge-for-game-boy-32kb-flash) ([HHL USA](https://handheldlegend.com/products/copy-of-game-boy-flash-cartridge-32kb-rom-ferrante-crafts))
-| Ferrante Crafts | Flash Cart 64KB    | MBC 5   | 64K       | no        |         | ~$17 ($13) | NLD | [store link](https://www.ferrantecrafts.com/listing/1221424181/flash-cartridge-for-game-boy-64kb-flash) ([HHL USA](https://handheldlegend.com/products/copy-of-copy-of-game-boy-flash-cartridge-64kb-rom-ferrante-crafts))
-| Ferrante Crafts | Flash Cart 512KB   | MBC 5   | 512K      | no        |         | ~$19 ($16) | NLD | [store link](https://www.ferrantecrafts.com/listing/1220871684/flash-cartridge-for-game-boy-512kb-rom) ([HHL USA](https://handheldlegend.com/products/game-boy-flash-cartridge-512kb-rom-ferrante-crafts))
-|FunnyPlaying    | 4MB MBC3            | MBC 3   | 4MB       | 128K FRAM  | RTC    | ~$27 | CN | [store link](https://funnyplaying.com/collections/product/products/midnighttrace-gb-gbc-flash-cart)
-| HDR at Retro Game Repair Shop | 2MB MBC3 RTC by HDR | MBC 3   | 2MB       | 32K FRAM   | RTC    | $60  | USA | [store link](https://retrogamerepairshop.com/products/game-boy-2mb-32kb-fram-mbc3-with-rtc-flash-cartridge-by-hdr?variant=40144623927468)
+| BennVenn | MBC3000 RTC GBC cart v5     | MBC 5/3 | 4MB      | 32K FRAM | RTC | ~$29.00      | AUS     | [store link](https://bennvenn.myshopify.com/products/mbc3000-rtc-gbc-cart-v5)
+| Cubic Style     | GB 32K             | no-MBC | 32K       | no        |         | ~$8 | JPN | [store link](https://cubic-style.booth.pm/items/1511849)
+| Ferrante Crafts | Flash Cart 32KB    | no-MBC  | 32K       | no        |         | ~$15 ($5.50) | NLD | [store link](https://www.ferrantecrafts.com/listing/1051728136/flash-cartridge-for-game-boy-32kb-flash) ([HHL USA](https://handheldlegend.com/products/copy-of-game-boy-flash-cartridge-32kb-rom-ferrante-crafts))
+| Ferrante Crafts | Flash Cart 64KB    | MBC 5   | 64K       | no        |         | ~$17 ($6.50) | NLD | [store link](https://www.ferrantecrafts.com/listing/1221424181/flash-cartridge-for-game-boy-64kb-flash) ([HHL USA](https://handheldlegend.com/products/copy-of-copy-of-game-boy-flash-cartridge-64kb-rom-ferrante-crafts))
+| Ferrante Crafts | Flash Cart 512KB   | MBC 5   | 512K      | no        |         | ~$19 ($8) | NLD | [store link](https://www.ferrantecrafts.com/listing/1220871684/flash-cartridge-for-game-boy-512kb-rom) ([HHL USA](https://handheldlegend.com/products/game-boy-flash-cartridge-512kb-rom-ferrante-crafts))
 | Inside Gadgets | 32KB                | no-MBC  | 32K       | no |       | $11 | AUS | [store link](https://www.tindie.com/products/insidegadgets/32kb-flash-cart-for-gameboy/)
 | Inside Gadgets | 2MB MBC7            | MBC 7   | 2MB       | 4K EEPROM | Accelerometer  | $49 | AUS | [store link](https://shop.insidegadgets.com/product/gameboy-2mb-mbc7-flash-cart/)
 | Inside Gadgets | Low Power 1MB 128KB SRAM | MBC 5/~3/~1 | 1MB       | 128K SRAM | Low Power      | $32    | AUS | [store link](https://shop.insidegadgets.com/product/gameboy-1mb-128kb-sram-flash-cart-ultra-low-power-great-for-lsdj/)
@@ -57,9 +55,10 @@ Feel free to open a PR or Issue with correction, updates or additions. Please tr
 
 | Vendor          | Item               | MBC    | ROM       | RAM       | Feature | Price USD | Country | URL |
 |-----------------|--------------------|--------|-----------|-----------|----------|-----------|---------|------|
-| BennVenn | MBC3000 RTC GBC cart v3     | MBC 5/3 | 8MB      | 128K FRAM | RTC      | ~$30      | AUS     | [store link](https://bennvenn.myshopify.com/products/mbc3000-rtc-gbc-cart)
 | Cubic Style     | GB 2MB             | MBC 5  | 2MB       | no        |         | ~$18 | JPN | [store link](https://cubic-style.booth.pm/items/2384914)
 | Cubic Style     | GB 2MB 32K         | MBC 5  | 2MB       | 32K FRAM  |         | ~$24 | JPN | [store link](https://cubic-style.booth.pm/items/2384780)
+|FunnyPlaying    | 4MB MBC3            | MBC 3   | 4MB       | 128K FRAM  | RTC    | ~$27 | CN | [store link](https://funnyplaying.com/collections/product/products/midnighttrace-gb-gbc-flash-cart)
+| HDR at Retro Game Repair Shop | 2MB MBC3 RTC by HDR | MBC 3   | 2MB       | 32K FRAM   | RTC    | $60  | USA | [store link](https://retrogamerepairshop.com/products/game-boy-2mb-32kb-fram-mbc3-with-rtc-flash-cartridge-by-hdr?variant=40144623927468)
 | Inside Gadgets | 512KBx4 Button      | MBC ?   | 4 x 512KB | no        | Selectable ROM | $17 | AUS | [store link](https://shop.insidegadgets.com/product/gameboy-512kbx4-button-flash-cart/)
 | Inside Gadgets | Low Power 2MB 128KB SRAM | MBC 5       | 2MB       | 128K SRAM | Low Power      | $32    | AUS | [store link](https://shop.insidegadgets.com/product/gameboy-2mb-128kb-sram-flash-cart-ultra-low-power-perfect-for-lsdj/)
 | Inside Gadgets | 512KB/32KB ROM only  | MBC 5        | 32/512K   | no        |                   | $10-14 | AUS | [store link](https://shop.insidegadgets.com/product/gameboy-32kb-flash-cart/)
