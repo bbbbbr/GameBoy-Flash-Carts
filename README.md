@@ -45,7 +45,7 @@ Feel free to open a PR or Issue with correction, updates or additions. Please tr
 | J.Rodrigo      | 4MB FRAM 32K       | MBC 5 | 4MB       | 32K FRAM   |        | $50   | ESP | [store link](https://www.tindie.com/products/jrodrigo/flash-cartridge-rom-4mb-fram-32kb-for-gameboy/)
 | Kitsch-Bent    | kk_gb_256x16_plcc_ | no-MBC | 16 x 32K   | no        | Selectable ROM | $30 | USA | [store link](https://store.kitsch-bent.com/products/kk_gb_256x16_plcc-cartridge)
 | Retro Stage    | GameBoy Blaster Lite   | MBC 5   | 18MB | 32K SRAM |         | $18       | USA?    | [store link](https://retrostage.net/?product=gameboy-blaster-lite)
-| Zepharim       | RP2040 GB cart     | MBC1/3/5| 8MB       | 32/128K SRAM | No GBC 2x, Hi Power Draw | $30       | DE     | [store link](https://www.tindie.com/products/zeraphim/rp2040-based-game-boy-cartridge/#shipping) 
+| Zepharim       | RP2040 GB cart     | MBC1/3/5| 8MB       | 32/128K SRAM | Hi Power Draw | $30       | DE     | [store link](https://www.tindie.com/products/zeraphim/rp2040-based-game-boy-cartridge/#shipping) 
 
 
 ## Out of Stock (at the time of this page update) Flash Carts
