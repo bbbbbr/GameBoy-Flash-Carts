@@ -43,7 +43,7 @@ Feel free to open a PR or Issue with correction, updates or additions. Please tr
 | Inside Gadgets | GBA Size 4MB 32K FRAM | MBC 5/~3/~1 | 4MB      | 32K FRAM   | GBA Cart Sized    | $40.30    | AUS | [store link](https://shop.insidegadgets.com/product/gameboy-4mb-32kb-fram-mini-flash-cart-fits-in-a-gba-cartridge/)
 | Inside Gadgets | GBA Size RTC 4MB 32K FRAM | MBC 3 | 4MB      | 32K FRAM   | GBA Cart Sized, RTC | $62    | AUS | [store link](https://shop.insidegadgets.com/product/gameboy-4mb-32kb-fram-mbc3-with-rtc-mini-flash-cart-works-with-pokemon-games-hacks-like-cc-fits-in-a-gba-cartridge-for-gba-gba-sp/)
 | J.Rodrigo      | 4MB FRAM 32K       | MBC 5 | 4MB       | 32K FRAM   |        | $50   | ESP | [store link](https://www.tindie.com/products/jrodrigo/flash-cartridge-rom-4mb-fram-32kb-for-gameboy/)
-| Kitsch-Bent    | kk_gb_256x16_plcc_ | no-MBC | 16 x 32K   | no        | Selectable ROM | $30 | USA | [store link](https://store.kitsch-bent.com/products/kk_gb_256x16_plcc-cartridge)
+| Kitsch-Bent    | kk_gb_256x16_plcc_ | no-MBC | 16 x 256K   | no        | Selectable ROM | $30 | USA | [store link](https://store.kitsch-bent.com/products/kk_gb_256x16_plcc-cartridge)
 | Retro Stage    | GameBoy Blaster Lite   | MBC 5   | 1MB | 32K SRAM |         | $18       | USA?    | [store link](https://retrostage.net/?product=gameboy-blaster-lite)
 | Zepharim       | RP2040 GB cart     | MBC1/3/5| 8MB       | 32/128K SRAM | Hi Power Draw | $30       | DE     | [store link](https://www.tindie.com/products/zeraphim/rp2040-based-game-boy-cartridge/#shipping) 
 
