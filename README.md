@@ -51,7 +51,7 @@ Feel free to open a PR or Issue with correction, updates or additions. Please tr
 | Kitsch-Bent    | kk_gb_256x16_plcc_ | no-MBC | 16 x 256K   | no        | Selectable ROM | $37.50 | USA | [store link](https://store.kitsch-bent.com/products/kk_gb_256x16_plcc-cartridge)
 | Retro Stage    | GameBoy Blaster    | MBC 5   | 1/2/4/8MB | 32/128K SRAM |         | $26-27.50       | USA?    | [store link](https://retrostage.net/?product=gb-blaster)
 | Zepharim       | RP2040 GB cart     | MBC1/3/5| 8MB       | 32/128K SRAM | Hi Power Draw | $33       | DE     | [store link](https://www.tindie.com/products/zeraphim/rp2040-based-game-boy-cartridge/#shipping) 
-| Zepharim       | RP2350 GB cart     | MBC1/3/5| 8MB       | 32/128K SRAM | Hi Power Draw, RTC, SDCard | $45       | DE     | [store link](https://www.tindie.com/products/zeraphim/rp2040-based-game-boy-cartridge/#shipping) 
+| Zepharim       | RP2350 GB cart     | MBC1/3/5| 8MB       | 32/128K SRAM | Hi Power Draw, RTC, SDCard | $45       | DE     | [store link](https://www.tindie.com/products/zeraphim/rp2350b-based-gameboy-cartridge/) 
 
 ## Out of Stock (at the time of this page update) Flash Carts
 
