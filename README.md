@@ -21,7 +21,7 @@ Feel free to open a PR or Issue with correction, updates or additions. Please tr
 * [Discussion about Carts with 3.3V components](https://web.archive.org/web/20180817042212/https://db-electronics.ca/2017/07/05/the-dangers-of-3-3v-flash-in-retro-consoles/)
 
 ## Notes
-- GB Make is a new vendor in ~2026. Their website and social media posts lack details about MBC support, SRAM size, etc
+- GB Make is a new vendor in ~2026. They've provided some additional detail about MBC support, SRAM size, etc that is not present on the website. Not yet confirmed by customers.
 
 ## Flash Carts
 
@@ -33,12 +33,12 @@ Feel free to open a PR or Issue with correction, updates or additions. Please tr
 | FunnyPlaying    | 8MB MBC5 EverSave 32K   | MBC 5 | 8MB       |32K FRAM    |        | $22 | CN  | [store link](https://funnyplaying.com/products/eversave-gb-gbc-flash-cart-pro)
 | FunnyPlaying    | 4MB MBC3 128K           | MBC 3 | 4MB       | 128K FRAM  | RTC    | $27 ($37) | CN (USA) | [store link](https://funnyplaying.com/collections/product/products/midnighttrace-gb-gbc-flash-cart) ( [RGRS USA](https://etrogamerepairshop.com/collections/flash-cards-accessories/products/funnyplaying-midnighttrace-gb-gbc-flash-cart-v2?variant=43035279851692))
 | FunnyPlaying    | 8MB MBC5 EverSave 128K  | MBC 5 | 8MB       |128K FRAM   |        | $25 | CN | [store link](https://funnyplaying.com/products/eversave-mbc5-gb-gbc-flash-cart-%E5%89%AF%E6%9C%AC)
-| GB Make | 2MB ROM only        | MBC 3?/5? SRAM     | 8MB?       | ?K SRAM |     | $16 | CN | [store link](https://gbmake.com/product/gb_cartridge/)
-| GB Make | 2MB ROM only        | MBC 3?/5? FRAM     | 8MB?       | ?K FRAM |     | $20 | CN | [store link](https://gbmake.com/product/gb_cartridge/)
-| GB Make | 2MB ROM only        | MBC 3?/5? SRAM RTC | 8MB?       | ?K SRAM | RTC | $20 | CN | [store link](https://gbmake.com/product/gb_cartridge/)
-| GB Make | 2MB ROM only        | MBC 3?/5? FRAM RTC | 8MB?       | ?K FRAM | RTC | $24 | CN | [store link](https://gbmake.com/product/gb_cartridge/)
-| GB Make | 2MB ROM only        | MBC 3?/5? SRAM Rumble | 8MB?    | ?K SRAM | Rumble | $20 | CN | [store link](https://gbmake.com/product/gb_cartridge/)
-| GB Make | 2MB ROM only        | MBC 3?/5? FRAM Rumble | 8MB?    | ?K FRAM | Rumble | $24 | CN | [store link](https://gbmake.com/product/gb_cartridge/)
+| GB Make | GBxGBC Cartridge | MBC 3/5 SRAM     | 8MB     | 128K SRAM |       | $16 | CN | [store link](https://gbmake.com/product/gb_cartridge/)
+| GB Make | GBxGBC Cartridge | MBC 3/5 FRAM     | 8MB     | 512K FRAM |       | $20 | CN | [store link](https://gbmake.com/product/gb_cartridge/)
+| GB Make | GBxGBC Cartridge | MBC 3/5 SRAM RTC | 8MB     | 32K SRAM | RTC    | $20 | CN | [store link](https://gbmake.com/product/gb_cartridge/)
+| GB Make | GBxGBC Cartridge | MBC 3/5 FRAM RTC | 8MB     | 32K FRAM | RTC    | $24 | CN | [store link](https://gbmake.com/product/gb_cartridge/)
+| GB Make | GBxGBC Cartridge | MBC 3/5 SRAM Rumble | 8MB  | 32K SRAM | Rumble | $20 | CN | [store link](https://gbmake.com/product/gb_cartridge/)
+| GB Make | GBxGBC Cartridge | MBC 3/5 FRAM Rumble | 8MB  | 32K FRAM | Rumble | $24 | CN | [store link](https://gbmake.com/product/gb_cartridge/)
 | Inside Gadgets | 32KB ROM only       | MBC   | 32K       | no |     | $11 ($12) | AUS | [store link](https://shop.insidegadgets.com/product/gameboy-512kb-32kb-rom-only-flash-cart/) ([tindie](https://www.tindie.com/products/insidegadgets/32kb-flash-cart-for-gameboy/))
 | Inside Gadgets | 512K ROM only        | MBC 5   | 512K     | no |     | $14 | AUS | [store link](https://shop.insidegadgets.com/product/gameboy-512kb-32kb-rom-only-flash-cart/)
 | Inside Gadgets | 2MB ROM only        | MBC 5   | 2MB       | no |     | $16 | AUS | [store link](https://shop.insidegadgets.com/product/gameboy-2mb-rom-only-flash-cart/)
