@@ -47,7 +47,7 @@ Feel free to open a PR or Issue with correction, updates or additions. Please tr
 
   
 ## Potential new vendors 
-- GB Make is a new vendor in ~2026 using ChisFlash based designs. They've provided some additional detail about MBC support, SRAM size, etc that is not present on the website. The quality is not yet confirmed by customers, so buyer beware for now
+- GB Make is a new vendor in ~2026 using ChisFlash based designs. They've provided some additional detail about MBC support, SRAM size, etc that is not present on the website. There is at least one buyer who has reported a positive results flashing and using the carts.
 
 | Vendor          | Item               | MBC    | ROM       | RAM       | Features | Price USD | Country | URL  |
 |-----------------|--------------------|--------|-----------|-----------|----------|-----------|---------|------|
