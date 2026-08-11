@@ -45,19 +45,6 @@ Feel free to open a PR or Issue with correction, updates or additions. Please tr
 | Zepharim       | RP2040 GB cart     | MBC1/3/5| 8MB       | 32/128K SRAM | Hi Power Draw | $33       | DE     | [store link](https://www.tindie.com/products/zeraphim/rp2040-based-game-boy-cartridge/#shipping) 
 | Zepharim       | RP2350 GB cart     | MBC1/3/5| 8MB       | 32/128K SRAM | Hi Power Draw, RTC, SDCard | $45       | DE     | [store link](https://www.tindie.com/products/zeraphim/rp2350b-based-gameboy-cartridge/) 
 
-  
-## Potential new vendors 
-- GB Make is a new vendor in ~2026 using ChisFlash based designs. They've provided some additional detail about MBC support, SRAM size, etc that is not present on the website. There is at least one buyer who has reported a positive results flashing and using the carts.
-
-| Vendor          | Item               | MBC    | ROM       | RAM       | Features | Price USD | Country | URL  |
-|-----------------|--------------------|--------|-----------|-----------|----------|-----------|---------|------|
-| GB Make | GBxGBC Cartridge | MBC 3/5 SRAM        | 8MB  | 128K SRAM |       | $16 | CN | [store link](https://gbmake.com/us/products/cartridge-gb-gbc)
-| GB Make | GBxGBC Cartridge | MBC 3/5 FRAM        | 8MB  | 512K FRAM |       | $20 | CN | [store link](https://gbmake.com/us/products/cartridge-gb-gbc)
-| GB Make | GBxGBC Cartridge | MBC 3/5 SRAM RTC    | 4MB  | 32K SRAM | RTC    | $20 | CN | [store link](https://gbmake.com/us/products/cartridge-gb-gbc)
-| GB Make | GBxGBC Cartridge | MBC 3/5 FRAM RTC    | 4MB  | 32K FRAM | RTC    | $24 | CN | [store link](https://gbmake.com/us/products/cartridge-gb-gbc)
-| GB Make | GBxGBC Cartridge | MBC 3/5 SRAM Rumble | 4MB  | 32K SRAM | Rumble | $20 | CN | [store link](https://gbmake.com/us/products/cartridge-gb-gbc)
-| GB Make | GBxGBC Cartridge | MBC 3/5 FRAM Rumble | 4MB  | 32K FRAM | Rumble | $24 | CN | [store link](https://gbmake.com/us/products/cartridge-gb-gbc)
-
 
 ## Out of Stock (at the time of this page update) Flash Carts
 
